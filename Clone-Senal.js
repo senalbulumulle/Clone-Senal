@@ -22,11 +22,6 @@ function cloneTimer() {
 }
 
 
-// Call the variables 
-senal();
-clone();
-cloneConsole();
-cloneTimer();
 
 
 // Make a variable or constant called scroll to automatically scroll down. 
@@ -36,3 +31,12 @@ const scroll = setInterval(function () { window.scrollBy(0, 3000); }, 0);
 
 // Get a "new" date
 new Date();
+
+
+
+
+// Call the variables 
+senal();
+clone();
+cloneConsole();
+cloneTimer();
